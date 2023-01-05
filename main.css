@@ -15,3 +15,6 @@ img{
     padding: 20px;
     flex-direction: row;
 }
+.container #dog9 {
+    background-color: white;
+}
