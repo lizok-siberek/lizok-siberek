@@ -58,7 +58,7 @@ iframe {
 @media screen and (max-width: 770px) {
 
     .container-images {
-        padding: 20px;
+        padding: 5px;
         display: grid;
         grid-template-columns: 1fr ;
         justify-items: center;
