@@ -112,3 +112,7 @@ iframe {
 .mishki-body{
     background-color: #7f246b;
 }
+
+.landscape{
+    object-fit: contain;
+}
